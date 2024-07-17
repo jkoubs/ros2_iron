@@ -28,6 +28,7 @@ RUN apt-get update --fix-missing && \
                        ros-iron-mapviz \
                        ros-iron-mapviz-plugins \
                        ros-iron-tile-map \
+                       ros-iron-nav2-common \
                        qtbase5-dev \
                        libqt5svg5-dev \
                        libzmq3-dev \
